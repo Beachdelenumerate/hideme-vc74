@@ -1,4 +1,4 @@
-
+vip Hide.me Tool | tracker-blocker + WireGuard-support is the best Hide.me tool, featuring tracker-blocker and WireGuard-support. Secure, fast, and optimized for privacy.
 
 
 
